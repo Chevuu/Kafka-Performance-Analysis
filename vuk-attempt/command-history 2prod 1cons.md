@@ -5,7 +5,7 @@ Window 1:
 - ./bin/kafka-topics.sh --create --zookeeper zookeeper:2181 --replication-factor 1 --partitions 1 --topic test
 - cd /bin
 - echo 'for i in $(seq 1 30); do
-    echo "Message $i" | kafka-console-producer.sh --broker-list localhost:9092 --topic your-topic
+    echo "Message $i" | kafka-console-producer.sh --broker-list localhost:9092 --topic test
     sleep 1
 done' > base-script.sh
 - chmod +x base-script.sh
@@ -13,7 +13,7 @@ done' > base-script.sh
 Window 2:
 - cd opt/kafka/bin
 - echo 'for i in $(seq 1 30); do
-    echo "Message $i" | kafka-console-producer.sh --broker-list localhost:9092 --topic your-topic
+    echo "Message $i" | kafka-console-producer.sh --broker-list localhost:9092 --topic test
     sleep 1
 done' > base-script.sh
 - chmod +x base-script.sh
