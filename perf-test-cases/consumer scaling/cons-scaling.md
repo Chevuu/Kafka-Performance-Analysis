@@ -7,8 +7,9 @@ Window 1:
 - ./bin/kafka-topics.sh --create --zookeeper zookeeper:2181 --replication-factor 1 --partitions 1 --topic test-topic
 - cd /bin
 - echo 'for i in $(seq 1 30); do
-    echo "Message $i" | kafka-console-producer.sh --broker-list localhost:9092 --topic test-topic
-    sleep 1
+    message=$(dd if=/dev/urandom bs=256 count=1 | base64)
+    echo "$message" | kafka-console-producer.sh --broker-list localhost:9092 --topic your-topic
+    sleep 0.5
 done' > base-script.sh
 - chmod +x base-script.sh
 

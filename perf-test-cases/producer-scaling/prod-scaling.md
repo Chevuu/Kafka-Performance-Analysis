@@ -20,14 +20,12 @@ Window 2:
 done' > base-script.sh
 - chmod +x base-script.sh
 
-Scale amount of producers by repeating what's been done in window 2 above in another window 3..4..5..
-
 Window 1:
 - ./base-script.sh
 
 Window 2:
 - ./base-script.sh
-.... for all n windows
+.... do this in new windows to create as menay producers as you want.
 
 Window n+1:
 - docker exec -it Kafka /bin/sh
