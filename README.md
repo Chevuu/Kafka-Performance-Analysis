@@ -1,5 +1,5 @@
 # Project Repository
-This repository encompasses two main sections, each serving distinct purposes for the project at hand: Approach Dockerfile and Reported Approach. Below, we detail the contents and utility of each section:
+This repository encompasses two main sections, each serving distinct purposes for the project at hand: Approach Dockerfile and Reported Approach. Used one in 1st stage of the project is Reported Approach so you can directly jump to that if you wish. Below, we detail the contents and utility of each section:
 
 ## Approach Dockerfile
 Approach Dockerfile contains the preferred configuration and setup for the project. This version is designed for enhanced compatibility and future use, particularly in the context of **Stage 2**. This setup ensures better scalability and adaptability for running the project on multiple machines, making it a suitable choice for subsequent project stages.
