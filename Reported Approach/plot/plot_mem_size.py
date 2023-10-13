@@ -6,7 +6,7 @@ mem_size = [650.32, 646.03, 648.86, 718.85, 763.09, 1514.42, 1882.95]
 fig, ax1 = plt.subplots()
 
 ax1.bar(size, mem_size, color='skyblue', label='Mem Size')
-ax1.set_xlabel('Number of Consumers')
+ax1.set_xlabel('Message Size (in bits)')
 ax1.set_ylabel('Mem Size (in MiB)', color='skyblue')
 ax1.tick_params('y', colors='skyblue')
 
