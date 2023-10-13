@@ -12,9 +12,8 @@ done
 These are the parameters we'll be scaling to analyze our system.
 - number of producers
 - number of consumers
-- number of topics
 - frequency of messages
 - size of messages
 
 ## Plan
-In perf-test-cases folder you can find a plan for scaling consumers and producers. When observing docker stats, note down CPU usage and memory usage and any other information you find important. Later we'll plot some graphs and try to explain the information we got.
+In perf-test-cases folder you can find a plan for scaling consumers and producers. When observing docker stats, note down CPU usage and memory usage and any other information you find important. Later we'll plot some graphs and try to explain the information we got. You can also find a series of commands you have to put into your terminal in order to run the software.

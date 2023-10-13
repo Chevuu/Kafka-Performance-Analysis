@@ -1,3 +1,5 @@
+# This script doesn't work, also it's only for windows users.
+
 param (
     [int]$numProducers = 1
 )
