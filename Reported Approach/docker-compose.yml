@@ -13,11 +13,3 @@ services:
     environment:
       KAFKA_ADVERTISED_HOST_NAME: localhost
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-  kafka2:
-    image: wurstmeister/kafka
-    container_name: Kafka2
-    ports:
-      - '9093:9093'
-    environment:
-      KAFKA_ADVERTISED_HOST_NAME: localhost
-      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
