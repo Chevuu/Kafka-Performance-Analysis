@@ -15,11 +15,10 @@ def parse_cpu_mem_values(filename):
                 mem_limit = float(match.group(4))
                 mem_limit_unit = match.group(5)
 
-                # Convert MEM usage and limit to MiB
                 if mem_usage_unit == 'G':
-                    mem_usage *= 1024  # Convert GiB to MiB
+                    mem_usage *= 1024  
                 if mem_limit_unit == 'G':
-                    mem_limit *= 1024  # Convert GiB to MiB
+                    mem_limit *= 1024  
 
                 cpu_values.append(cpu_percentage)
                 mem_values.append(mem_usage)
@@ -41,14 +40,11 @@ if __name__ == "__main__":
 
     file_path = sys.argv[1]
 
-    # Parse CPU and MEM values, and count Kafka lines from the file
     cpu_values, mem_values, kafka_lines = parse_cpu_mem_values(file_path)
 
-    # Calculate the mean of CPU and MEM values
     mean_cpu = calculate_mean(cpu_values)
     mean_mem = calculate_mean(mem_values)
 
-    # Print the mean CPU and MEM values, and the number of Kafka lines
     if mean_cpu is not None:
         print(f"Mean CPU value: {mean_cpu:.2f}%")
     else:

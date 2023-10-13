@@ -5,7 +5,7 @@ And consumer running this:
 for i in $(seq 1 30); do
     message=$(dd if=/dev/urandom bs=256 count=1 | base64)
     echo "$message" | kafka-console-producer.sh --broker-list localhost:9092 --topic test-topic
-    sleep 0.5
+    sleep 0.2
 done
 
 ## Parameters
