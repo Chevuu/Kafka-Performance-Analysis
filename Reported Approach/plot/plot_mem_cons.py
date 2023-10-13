@@ -15,11 +15,5 @@ ax1.set_xlabel('Number of Consumers')
 ax1.set_ylabel('Mem Size (in MiB)', color='skyblue')
 ax1.tick_params('y', colors='skyblue')
 
-# Creating a second y-axis to plot nb_messages
-# ax2 = ax1.twinx()
-# ax2.plot(num_consumers, nb_messages, color='red', marker='o', label='Number of Messages')
-# ax2.set_ylabel('Number of Messages', color='red')
-# ax2.tick_params('y', colors='red')
-
 plt.title('Mem size Usage for Different Number of Consumers')
 plt.show()

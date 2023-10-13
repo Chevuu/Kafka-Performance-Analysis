@@ -1,1298 +1,1040 @@
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       81.12%    739.4MiB / 7.655GiB
+Kafka       135.78%   1.612GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       81.12%    739.4MiB / 7.655GiB
+Kafka       135.78%   1.612GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       104.78%   758.1MiB / 7.655GiB
+Kafka       175.68%   1.648GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       104.78%   758.1MiB / 7.655GiB
+Kafka       175.68%   1.648GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       183.12%   935.4MiB / 7.655GiB
+Kafka       226.97%   1.683GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       183.12%   935.4MiB / 7.655GiB
+Kafka       226.97%   1.683GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       235.43%   998.1MiB / 7.655GiB
+Kafka       499.44%   1.744GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       235.43%   998.1MiB / 7.655GiB
+Kafka       499.44%   1.744GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       417.73%   1.053GiB / 7.655GiB
+Kafka       434.78%   1.838GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       417.73%   1.053GiB / 7.655GiB
+Kafka       434.78%   1.838GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       486.75%   1.119GiB / 7.655GiB
+Kafka       498.83%   1.867GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       486.75%   1.119GiB / 7.655GiB
+Kafka       498.83%   1.867GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       448.91%   1.184GiB / 7.655GiB
+Kafka       470.82%   1.883GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       448.91%   1.184GiB / 7.655GiB
+Kafka       470.82%   1.883GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       375.27%   1.073GiB / 7.655GiB
+Kafka       433.78%   1.799GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       375.27%   1.073GiB / 7.655GiB
+Kafka       433.78%   1.799GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       258.82%   1.081GiB / 7.655GiB
+Kafka       198.99%   1.486GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       258.82%   1.081GiB / 7.655GiB
+Kafka       198.99%   1.486GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       95.25%    792.8MiB / 7.655GiB
+Kafka       119.09%   1.507GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       95.25%    792.8MiB / 7.655GiB
+Kafka       119.09%   1.507GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.10%   813.5MiB / 7.655GiB
+Kafka       139.42%   1.536GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.10%   813.5MiB / 7.655GiB
+Kafka       139.42%   1.536GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       166.64%   806.2MiB / 7.655GiB
+Kafka       213.96%   1.656GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       166.64%   806.2MiB / 7.655GiB
+Kafka       213.96%   1.656GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       226.60%   974.1MiB / 7.655GiB
+Kafka       263.98%   1.698GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       226.60%   974.1MiB / 7.655GiB
+Kafka       263.98%   1.698GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       280.88%   1.005GiB / 7.655GiB
+Kafka       370.05%   1.803GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       280.88%   1.005GiB / 7.655GiB
+Kafka       370.05%   1.803GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.69%   1.076GiB / 7.655GiB
+Kafka       408.53%   1.899GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.69%   1.076GiB / 7.655GiB
+Kafka       408.53%   1.899GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       285.14%   1.02GiB / 7.655GiB
+Kafka       147.87%   1.503GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       285.14%   1.02GiB / 7.655GiB
+Kafka       147.87%   1.503GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       99.20%    821.2MiB / 7.655GiB
+Kafka       134.78%   1.517GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       99.20%    821.2MiB / 7.655GiB
+Kafka       134.78%   1.517GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       129.33%   840MiB / 7.655GiB
+Kafka       138.95%   1.53GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       129.33%   840MiB / 7.655GiB
+Kafka       138.95%   1.53GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       209.61%   961.2MiB / 7.655GiB
+Kafka       220.51%   1.65GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       209.61%   961.2MiB / 7.655GiB
+Kafka       220.51%   1.65GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       244.50%   1009MiB / 7.655GiB
+Kafka       257.53%   1.696GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       244.50%   1009MiB / 7.655GiB
+Kafka       257.53%   1.696GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       328.04%   1.086GiB / 7.655GiB
+Kafka       314.12%   1.762GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       328.04%   1.086GiB / 7.655GiB
+Kafka       314.12%   1.762GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       428.86%   1.142GiB / 7.655GiB
+Kafka       414.83%   1.827GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       428.86%   1.142GiB / 7.655GiB
+Kafka       414.83%   1.827GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.14%   820.8MiB / 7.655GiB
+Kafka       183.30%   1.513GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.14%   820.8MiB / 7.655GiB
+Kafka       183.30%   1.513GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.89%   837.2MiB / 7.655GiB
+Kafka       139.11%   1.531GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.89%   837.2MiB / 7.655GiB
+Kafka       139.11%   1.531GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       136.36%   874.1MiB / 7.655GiB
+Kafka       154.81%   1.58GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       136.36%   874.1MiB / 7.655GiB
+Kafka       154.81%   1.58GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       239.93%   920.1MiB / 7.655GiB
+Kafka       241.22%   1.692GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       239.93%   920.1MiB / 7.655GiB
+Kafka       241.22%   1.692GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       313.58%   993.4MiB / 7.655GiB
+Kafka       265.07%   1.734GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       313.58%   993.4MiB / 7.655GiB
+Kafka       265.07%   1.734GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       275.78%   1.006GiB / 7.655GiB
+Kafka       359.79%   1.821GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       275.78%   1.006GiB / 7.655GiB
+Kafka       359.79%   1.821GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       429.72%   1.059GiB / 7.655GiB
+Kafka       406.45%   1.871GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       429.72%   1.059GiB / 7.655GiB
+Kafka       406.45%   1.871GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       374.67%   1.115GiB / 7.655GiB
+Kafka       453.69%   1.898GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       374.67%   1.115GiB / 7.655GiB
+Kafka       453.69%   1.898GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       433.87%   1.182GiB / 7.655GiB
+Kafka       331.98%   1.568GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       433.87%   1.182GiB / 7.655GiB
+Kafka       331.98%   1.568GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       468.26%   1.092GiB / 7.655GiB
+Kafka       331.98%   1.568GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       468.26%   1.092GiB / 7.655GiB
+Kafka       128.28%   1.599GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       145.47%   829.5MiB / 7.655GiB
+Kafka       128.28%   1.599GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       145.47%   829.5MiB / 7.655GiB
+Kafka       211.57%   1.628GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       122.44%   845.4MiB / 7.655GiB
+Kafka       211.57%   1.628GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       122.44%   845.4MiB / 7.655GiB
+Kafka       251.52%   1.75GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       136.98%   862.6MiB / 7.655GiB
+Kafka       251.52%   1.75GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       136.98%   862.6MiB / 7.655GiB
+Kafka       283.32%   1.831GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       236.13%   994.8MiB / 7.655GiB
+Kafka       283.32%   1.831GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       236.13%   994.8MiB / 7.655GiB
+Kafka       382.80%   1.857GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       236.13%   994.8MiB / 7.655GiB
+Kafka       382.80%   1.857GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       275.22%   1.016GiB / 7.655GiB
+Kafka       378.76%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       275.22%   1.016GiB / 7.655GiB
+Kafka       378.76%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       381.05%   1.091GiB / 7.655GiB
+Kafka       411.48%   1.962GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       381.05%   1.091GiB / 7.655GiB
+Kafka       411.48%   1.962GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       391.49%   1.169GiB / 7.655GiB
+Kafka       223.07%   1.59GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       391.49%   1.169GiB / 7.655GiB
+Kafka       223.07%   1.59GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       120.65%   841.1MiB / 7.655GiB
+Kafka       117.90%   1.605GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       120.65%   841.1MiB / 7.655GiB
+Kafka       117.90%   1.605GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       142.90%   857.6MiB / 7.655GiB
+Kafka       129.78%   1.621GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       142.90%   857.6MiB / 7.655GiB
+Kafka       129.78%   1.621GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.45%   895.8MiB / 7.655GiB
+Kafka       203.39%   1.754GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.45%   895.8MiB / 7.655GiB
+Kafka       203.39%   1.754GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       262.11%   950.4MiB / 7.655GiB
+Kafka       254.69%   1.788GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       262.11%   950.4MiB / 7.655GiB
+Kafka       254.69%   1.788GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       355.92%   1010MiB / 7.655GiB
+Kafka       391.85%   1.9GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       355.92%   1010MiB / 7.655GiB
+Kafka       391.85%   1.9GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       258.93%   1.011GiB / 7.655GiB
+Kafka       485.27%   1.985GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       258.93%   1.011GiB / 7.655GiB
+Kafka       485.27%   1.985GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       434.53%   1.043GiB / 7.655GiB
+Kafka       416.26%   2.035GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       434.53%   1.043GiB / 7.655GiB
+Kafka       416.26%   2.035GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       419.53%   1.159GiB / 7.655GiB
+Kafka       228.01%   1.606GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       419.53%   1.159GiB / 7.655GiB
+Kafka       228.01%   1.606GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       289.76%   1.064GiB / 7.655GiB
+Kafka       129.68%   1.625GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       289.76%   1.064GiB / 7.655GiB
+Kafka       129.68%   1.625GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       100.44%   854MiB / 7.655GiB
+Kafka       140.30%   1.659GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       100.44%   854MiB / 7.655GiB
+Kafka       140.30%   1.659GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       140.74%   870.6MiB / 7.655GiB
+Kafka       251.22%   1.776GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       140.74%   870.6MiB / 7.655GiB
+Kafka       251.22%   1.776GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       203.73%   924.3MiB / 7.655GiB
+Kafka       384.47%   1.894GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       203.73%   924.3MiB / 7.655GiB
+Kafka       384.47%   1.894GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.88%   1.005GiB / 7.655GiB
+Kafka       503.62%   2.017GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.88%   1.005GiB / 7.655GiB
+Kafka       503.62%   2.017GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       327.22%   1.091GiB / 7.655GiB
+Kafka       396.05%   1.951GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       327.22%   1.091GiB / 7.655GiB
+Kafka       396.05%   1.951GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       419.61%   1.149GiB / 7.655GiB
+Kafka       116.86%   1.613GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       419.61%   1.149GiB / 7.655GiB
+Kafka       116.86%   1.613GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       419.61%   1.149GiB / 7.655GiB
+Kafka       170.85%   1.629GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       189.13%   853.2MiB / 7.655GiB
+Kafka       170.85%   1.629GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       189.13%   853.2MiB / 7.655GiB
+Kafka       190.00%   1.642GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.08%   865.2MiB / 7.655GiB
+Kafka       190.00%   1.642GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.08%   865.2MiB / 7.655GiB
+Kafka       325.21%   1.778GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       133.83%   881.9MiB / 7.655GiB
+Kafka       325.21%   1.778GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       133.83%   881.9MiB / 7.655GiB
+Kafka       249.22%   1.823GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       186.95%   904.7MiB / 7.655GiB
+Kafka       249.22%   1.823GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       186.95%   904.7MiB / 7.655GiB
+Kafka       501.46%   1.908GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       269.84%   1021MiB / 7.655GiB
+Kafka       501.46%   1.908GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       269.84%   1021MiB / 7.655GiB
+Kafka       465.54%   2.037GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       241.66%   1.046GiB / 7.655GiB
+Kafka       465.54%   2.037GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       241.66%   1.046GiB / 7.655GiB
+Kafka       437.28%   2.097GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       385.81%   1.128GiB / 7.655GiB
+Kafka       437.28%   2.097GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       385.81%   1.128GiB / 7.655GiB
+Kafka       430.28%   1.987GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       334.16%   1.218GiB / 7.655GiB
+Kafka       430.28%   1.987GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       334.16%   1.218GiB / 7.655GiB
+Kafka       255.47%   1.989GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.33%   1.287GiB / 7.655GiB
+Kafka       255.47%   1.989GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.33%   1.287GiB / 7.655GiB
+Kafka       84.82%    1.617GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       457.66%   1.327GiB / 7.655GiB
+Kafka       84.82%    1.617GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       457.66%   1.327GiB / 7.655GiB
+Kafka       171.83%   1.631GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       470.23%   1.364GiB / 7.655GiB
+Kafka       171.83%   1.631GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       470.23%   1.364GiB / 7.655GiB
+Kafka       171.83%   1.631GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       368.44%   1.404GiB / 7.655GiB
+Kafka       220.21%   1.655GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       368.44%   1.404GiB / 7.655GiB
+Kafka       220.21%   1.655GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       232.61%   1.283GiB / 7.655GiB
+Kafka       225.85%   1.775GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       232.61%   1.283GiB / 7.655GiB
+Kafka       225.85%   1.775GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       127.07%   954.7MiB / 7.655GiB
+Kafka       273.53%   1.806GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       127.07%   954.7MiB / 7.655GiB
+Kafka       273.53%   1.806GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       109.96%   970.4MiB / 7.655GiB
+Kafka       239.08%   1.824GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       109.96%   970.4MiB / 7.655GiB
+Kafka       239.08%   1.824GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       145.04%   985MiB / 7.655GiB
+Kafka       477.78%   1.887GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       145.04%   985MiB / 7.655GiB
+Kafka       477.78%   1.887GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       203.73%   1.029GiB / 7.655GiB
+Kafka       507.58%   1.945GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       203.73%   1.029GiB / 7.655GiB
+Kafka       507.58%   1.945GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       226.09%   1.099GiB / 7.655GiB
+Kafka       498.37%   2.052GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       226.09%   1.099GiB / 7.655GiB
+Kafka       498.37%   2.052GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       217.43%   1.119GiB / 7.655GiB
+Kafka       422.21%   1.937GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       217.43%   1.119GiB / 7.655GiB
+Kafka       422.21%   1.937GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.03%   1.142GiB / 7.655GiB
+Kafka       126.66%   1.63GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.03%   1.142GiB / 7.655GiB
+Kafka       126.66%   1.63GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       463.79%   1.211GiB / 7.655GiB
+Kafka       147.10%   1.646GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       463.79%   1.211GiB / 7.655GiB
+Kafka       147.10%   1.646GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.13%   1.3GiB / 7.655GiB
+Kafka       166.34%   1.692GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.13%   1.3GiB / 7.655GiB
+Kafka       166.34%   1.692GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       153.01%   966.8MiB / 7.655GiB
+Kafka       270.28%   1.81GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       153.01%   966.8MiB / 7.655GiB
+Kafka       270.28%   1.81GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       145.85%   983.2MiB / 7.655GiB
+Kafka       430.65%   1.901GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       145.85%   983.2MiB / 7.655GiB
+Kafka       430.65%   1.901GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.31%   997.2MiB / 7.655GiB
+Kafka       515.58%   2.056GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.31%   997.2MiB / 7.655GiB
+Kafka       515.58%   2.056GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       232.87%   1.107GiB / 7.655GiB
+Kafka       244.34%   1.631GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       232.87%   1.107GiB / 7.655GiB
+Kafka       244.34%   1.631GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       250.79%   1.143GiB / 7.655GiB
+Kafka       119.29%   1.647GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       250.79%   1.143GiB / 7.655GiB
+Kafka       119.29%   1.647GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       369.59%   1.187GiB / 7.655GiB
+Kafka       227.24%   1.666GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       369.59%   1.187GiB / 7.655GiB
+Kafka       227.24%   1.666GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       405.77%   1.229GiB / 7.655GiB
+Kafka       235.79%   1.802GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       405.77%   1.229GiB / 7.655GiB
+Kafka       235.79%   1.802GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       92.50%    977.8MiB / 7.655GiB
+Kafka       306.44%   1.886GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       92.50%    977.8MiB / 7.655GiB
+Kafka       306.44%   1.886GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       137.89%   994.5MiB / 7.655GiB
+Kafka       496.87%   1.973GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       137.89%   994.5MiB / 7.655GiB
+Kafka       496.87%   1.973GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.67%   1023MiB / 7.655GiB
+Kafka       210.78%   1.649GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.67%   1023MiB / 7.655GiB
+Kafka       210.78%   1.649GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       234.23%   1.129GiB / 7.655GiB
+Kafka       136.65%   1.667GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       234.23%   1.129GiB / 7.655GiB
+Kafka       136.65%   1.667GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       278.99%   1.159GiB / 7.655GiB
+Kafka       144.53%   1.69GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       278.99%   1.159GiB / 7.655GiB
+Kafka       144.53%   1.69GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       408.77%   1.219GiB / 7.655GiB
+Kafka       237.54%   1.812GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       408.77%   1.219GiB / 7.655GiB
+Kafka       237.54%   1.812GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       430.62%   1.134GiB / 7.655GiB
+Kafka       261.21%   1.861GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       430.62%   1.134GiB / 7.655GiB
+Kafka       261.21%   1.861GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       77.17%    990.1MiB / 7.655GiB
+Kafka       397.11%   1.913GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       77.17%    990.1MiB / 7.655GiB
+Kafka       397.11%   1.913GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       128.22%   1004MiB / 7.655GiB
+Kafka       424.40%   2.003GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       128.22%   1004MiB / 7.655GiB
+Kafka       424.40%   2.003GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.80%   1.011GiB / 7.655GiB
+Kafka       326.40%   1.887GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.80%   1.011GiB / 7.655GiB
+Kafka       326.40%   1.887GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       231.35%   1.132GiB / 7.655GiB
+Kafka       341.73%   1.892GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       231.35%   1.132GiB / 7.655GiB
+Kafka       341.73%   1.892GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       285.58%   1.193GiB / 7.655GiB
+Kafka       84.82%    1.66GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       285.58%   1.193GiB / 7.655GiB
+Kafka       84.82%    1.66GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       397.27%   1.228GiB / 7.655GiB
+Kafka       170.44%   1.674GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       397.27%   1.228GiB / 7.655GiB
+Kafka       170.44%   1.674GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       397.27%   1.228GiB / 7.655GiB
+Kafka       154.56%   1.688GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.48%   1.285GiB / 7.655GiB
+Kafka       154.56%   1.688GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.48%   1.285GiB / 7.655GiB
+Kafka       222.21%   1.784GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.88%   1.319GiB / 7.655GiB
+Kafka       222.21%   1.784GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.88%   1.319GiB / 7.655GiB
+Kafka       202.30%   1.794GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       146.11%   991.4MiB / 7.655GiB
+Kafka       202.30%   1.794GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       146.11%   991.4MiB / 7.655GiB
+Kafka       202.30%   1.794GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       134.74%   1005MiB / 7.655GiB
+Kafka       239.07%   1.812GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       134.74%   1005MiB / 7.655GiB
+Kafka       239.07%   1.812GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.40%   1020MiB / 7.655GiB
+Kafka       241.85%   1.839GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.40%   1020MiB / 7.655GiB
+Kafka       241.85%   1.839GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       208.24%   1.111GiB / 7.655GiB
+Kafka       298.81%   1.869GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       208.24%   1.111GiB / 7.655GiB
+Kafka       298.81%   1.869GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       251.70%   1.154GiB / 7.655GiB
+Kafka       440.26%   1.92GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       251.70%   1.154GiB / 7.655GiB
+Kafka       440.26%   1.92GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       340.22%   1.229GiB / 7.655GiB
+Kafka       423.57%   1.987GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       340.22%   1.229GiB / 7.655GiB
+Kafka       423.57%   1.987GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       370.18%   1.25GiB / 7.655GiB
+Kafka       417.70%   2.018GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       370.18%   1.25GiB / 7.655GiB
+Kafka       417.70%   2.018GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       182.51%   998.3MiB / 7.655GiB
+Kafka       425.62%   2.037GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       182.51%   998.3MiB / 7.655GiB
+Kafka       425.62%   2.037GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       124.11%   1014MiB / 7.655GiB
+Kafka       415.54%   2.059GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       124.11%   1014MiB / 7.655GiB
+Kafka       415.54%   2.059GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       136.41%   1.01GiB / 7.655GiB
+Kafka       346.37%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       136.41%   1.01GiB / 7.655GiB
+Kafka       346.37%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       215.73%   1.136GiB / 7.655GiB
+Kafka       57.37%    1.664GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       215.73%   1.136GiB / 7.655GiB
+Kafka       57.37%    1.664GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       250.07%   1.173GiB / 7.655GiB
+Kafka       99.00%    1.681GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       250.07%   1.173GiB / 7.655GiB
+Kafka       99.00%    1.681GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       401.50%   1.22GiB / 7.655GiB
+Kafka       128.83%   1.697GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       401.50%   1.22GiB / 7.655GiB
+Kafka       128.83%   1.697GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       399.43%   1.272GiB / 7.655GiB
+Kafka       194.40%   1.833GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       399.43%   1.272GiB / 7.655GiB
+Kafka       194.40%   1.833GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       475.85%   1.315GiB / 7.655GiB
+Kafka       273.37%   1.909GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       475.85%   1.315GiB / 7.655GiB
+Kafka       273.37%   1.909GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       441.75%   1.389GiB / 7.655GiB
+Kafka       401.58%   1.947GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       441.75%   1.389GiB / 7.655GiB
+Kafka       401.58%   1.947GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.34%   1006MiB / 7.655GiB
+Kafka       360.29%   1.88GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.34%   1006MiB / 7.655GiB
+Kafka       360.29%   1.88GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       137.09%   1023MiB / 7.655GiB
+Kafka       68.85%    1.672GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       137.09%   1023MiB / 7.655GiB
+Kafka       68.85%    1.672GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       139.10%   1.011GiB / 7.655GiB
+Kafka       106.17%   1.689GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       139.10%   1.011GiB / 7.655GiB
+Kafka       106.17%   1.689GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       190.79%   1.027GiB / 7.655GiB
+Kafka       201.48%   1.809GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       190.79%   1.027GiB / 7.655GiB
+Kafka       201.48%   1.809GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       248.61%   1.146GiB / 7.655GiB
+Kafka       264.98%   1.847GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       248.61%   1.146GiB / 7.655GiB
+Kafka       264.98%   1.847GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       230.03%   1.18GiB / 7.655GiB
+Kafka       344.43%   1.895GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       230.03%   1.18GiB / 7.655GiB
+Kafka       344.43%   1.895GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       400.58%   1.238GiB / 7.655GiB
+Kafka       412.29%   1.969GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       400.58%   1.238GiB / 7.655GiB
+Kafka       412.29%   1.969GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       433.60%   1.266GiB / 7.655GiB
+Kafka       387.67%   2.006GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       433.60%   1.266GiB / 7.655GiB
+Kafka       387.67%   2.006GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       434.40%   1.36GiB / 7.655GiB
+Kafka       387.67%   2.006GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       434.40%   1.36GiB / 7.655GiB
+Kafka       404.51%   2.025GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       362.03%   1.265GiB / 7.655GiB
+Kafka       404.51%   2.025GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       362.03%   1.265GiB / 7.655GiB
+Kafka       335.33%   2.048GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       168.14%   1011MiB / 7.655GiB
+Kafka       335.33%   2.048GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       168.14%   1011MiB / 7.655GiB
+Kafka       438.03%   2.072GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.49%   1.002GiB / 7.655GiB
+Kafka       438.03%   2.072GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.49%   1.002GiB / 7.655GiB
+Kafka       438.58%   2.124GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.49%   1.002GiB / 7.655GiB
+Kafka       438.58%   2.124GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       147.08%   1.016GiB / 7.655GiB
+Kafka       150.49%   1.669GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       147.08%   1.016GiB / 7.655GiB
+Kafka       150.49%   1.669GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       196.94%   1.081GiB / 7.655GiB
+Kafka       177.33%   1.683GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       196.94%   1.081GiB / 7.655GiB
+Kafka       177.33%   1.683GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       246.60%   1.164GiB / 7.655GiB
+Kafka       158.30%   1.697GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       246.60%   1.164GiB / 7.655GiB
+Kafka       158.30%   1.697GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       254.46%   1.191GiB / 7.655GiB
+Kafka       233.02%   1.832GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       254.46%   1.191GiB / 7.655GiB
+Kafka       233.02%   1.832GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.78%   1.25GiB / 7.655GiB
+Kafka       273.67%   1.891GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       436.78%   1.25GiB / 7.655GiB
+Kafka       273.67%   1.891GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       464.41%   1.273GiB / 7.655GiB
+Kafka       403.17%   1.92GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       464.41%   1.273GiB / 7.655GiB
+Kafka       403.17%   1.92GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       504.01%   1.207GiB / 7.655GiB
+Kafka       405.00%   1.871GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       504.01%   1.207GiB / 7.655GiB
+Kafka       405.00%   1.871GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       190.11%   1020MiB / 7.655GiB
+Kafka       83.70%    1.683GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       190.11%   1020MiB / 7.655GiB
+Kafka       83.70%    1.683GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       146.81%   1.011GiB / 7.655GiB
+Kafka       159.46%   1.697GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       146.81%   1.011GiB / 7.655GiB
+Kafka       159.46%   1.697GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       166.78%   1.025GiB / 7.655GiB
+Kafka       210.64%   1.75GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       166.78%   1.025GiB / 7.655GiB
+Kafka       210.64%   1.75GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       187.06%   1.017GiB / 7.655GiB
+Kafka       226.31%   1.856GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       187.06%   1.017GiB / 7.655GiB
+Kafka       226.31%   1.856GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       214.94%   1.145GiB / 7.655GiB
+Kafka       335.71%   1.927GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       214.94%   1.145GiB / 7.655GiB
+Kafka       335.71%   1.927GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       214.94%   1.145GiB / 7.655GiB
+Kafka       448.79%   1.99GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       235.82%   1.175GiB / 7.655GiB
+Kafka       448.79%   1.99GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       235.82%   1.175GiB / 7.655GiB
+Kafka       444.76%   2.091GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       264.20%   1.189GiB / 7.655GiB
+Kafka       444.76%   2.091GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       264.20%   1.189GiB / 7.655GiB
+Kafka       311.19%   1.978GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       301.57%   1.193GiB / 7.655GiB
+Kafka       311.19%   1.978GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       301.57%   1.193GiB / 7.655GiB
+Kafka       145.01%   1.686GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       428.14%   1.226GiB / 7.655GiB
+Kafka       145.01%   1.686GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       428.14%   1.226GiB / 7.655GiB
+Kafka       145.01%   1.686GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       509.23%   1.274GiB / 7.655GiB
+Kafka       166.05%   1.698GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       509.23%   1.274GiB / 7.655GiB
+Kafka       172.79%   1.71GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       509.23%   1.274GiB / 7.655GiB
+Kafka       172.79%   1.71GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       393.12%   1.347GiB / 7.655GiB
+Kafka       196.60%   1.816GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       393.12%   1.347GiB / 7.655GiB
+Kafka       196.60%   1.816GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       610.53%   1.36GiB / 7.655GiB
+Kafka       238.36%   1.868GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       610.53%   1.36GiB / 7.655GiB
+Kafka       238.36%   1.868GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       610.53%   1.36GiB / 7.655GiB
+Kafka       348.81%   1.95GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       617.80%   1.366GiB / 7.655GiB
+Kafka       348.81%   1.95GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       617.80%   1.366GiB / 7.655GiB
+Kafka       394.32%   1.968GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       439.59%   1.376GiB / 7.655GiB
+Kafka       394.32%   1.968GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       439.59%   1.376GiB / 7.655GiB
+Kafka       394.32%   1.968GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       439.59%   1.376GiB / 7.655GiB
+Kafka       241.96%   1.689GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       443.82%   1.384GiB / 7.655GiB
+Kafka       241.96%   1.689GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       443.82%   1.384GiB / 7.655GiB
+Kafka       197.12%   1.703GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       597.67%   1.386GiB / 7.655GiB
+Kafka       197.12%   1.703GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       597.67%   1.386GiB / 7.655GiB
+Kafka       243.57%   1.717GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       597.67%   1.386GiB / 7.655GiB
+Kafka       243.57%   1.717GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       469.86%   1.395GiB / 7.655GiB
+Kafka       179.94%   1.746GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       469.86%   1.395GiB / 7.655GiB
+Kafka       179.94%   1.746GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       469.86%   1.395GiB / 7.655GiB
+Kafka       233.13%   1.873GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       448.68%   1.407GiB / 7.655GiB
+Kafka       233.13%   1.873GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       448.68%   1.407GiB / 7.655GiB
+Kafka       302.87%   1.924GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.13%   1.42GiB / 7.655GiB
+Kafka       302.87%   1.924GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.13%   1.42GiB / 7.655GiB
+Kafka       407.98%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       469.96%   1.428GiB / 7.655GiB
+Kafka       407.98%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       469.96%   1.428GiB / 7.655GiB
+Kafka       431.24%   2.044GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       586.11%   1.433GiB / 7.655GiB
+Kafka       431.24%   2.044GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       586.11%   1.433GiB / 7.655GiB
+Kafka       474.28%   2.072GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       586.11%   1.433GiB / 7.655GiB
+Kafka       474.28%   2.072GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       608.65%   1.446GiB / 7.655GiB
+Kafka       163.17%   1.699GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       608.65%   1.446GiB / 7.655GiB
+Kafka       163.17%   1.699GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       402.87%   1.407GiB / 7.655GiB
+Kafka       165.04%   1.716GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       402.87%   1.407GiB / 7.655GiB
+Kafka       165.04%   1.716GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       321.45%   1.325GiB / 7.655GiB
+Kafka       141.42%   1.731GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       321.45%   1.325GiB / 7.655GiB
+Kafka       141.42%   1.731GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       439.99%   1.328GiB / 7.655GiB
+Kafka       248.76%   1.865GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       439.99%   1.328GiB / 7.655GiB
+Kafka       248.76%   1.865GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       439.99%   1.328GiB / 7.655GiB
+Kafka       249.65%   1.923GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       554.69%   1.334GiB / 7.655GiB
+Kafka       249.65%   1.923GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       554.69%   1.334GiB / 7.655GiB
+Kafka       391.70%   1.972GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       727.34%   1.335GiB / 7.655GiB
+Kafka       391.70%   1.972GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       727.34%   1.335GiB / 7.655GiB
+Kafka       421.35%   2.041GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.69%   1.333GiB / 7.655GiB
+Kafka       421.35%   2.041GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.69%   1.333GiB / 7.655GiB
+Kafka       450.51%   1.944GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       269.15%   1.335GiB / 7.655GiB
+Kafka       450.51%   1.944GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       269.15%   1.335GiB / 7.655GiB
+Kafka       207.95%   1.71GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       338.12%   1.34GiB / 7.655GiB
+Kafka       207.95%   1.71GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       338.12%   1.34GiB / 7.655GiB
+Kafka       136.50%   1.724GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       341.46%   1.346GiB / 7.655GiB
+Kafka       136.50%   1.724GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       341.46%   1.346GiB / 7.655GiB
+Kafka       159.74%   1.738GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       341.46%   1.346GiB / 7.655GiB
+Kafka       159.74%   1.738GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       141.28%   1.013GiB / 7.655GiB
+Kafka       206.72%   1.853GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       141.28%   1.013GiB / 7.655GiB
+Kafka       206.72%   1.853GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       267.16%   1.028GiB / 7.655GiB
+Kafka       238.75%   1.897GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       267.16%   1.028GiB / 7.655GiB
+Kafka       238.75%   1.897GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.25%   1.041GiB / 7.655GiB
+Kafka       346.40%   1.973GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       161.25%   1.041GiB / 7.655GiB
+Kafka       346.40%   1.973GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       233.32%   1.082GiB / 7.655GiB
+Kafka       427.08%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       233.32%   1.082GiB / 7.655GiB
+Kafka       427.08%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.04%   1.149GiB / 7.655GiB
+Kafka       419.25%   2.074GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.04%   1.149GiB / 7.655GiB
+Kafka       419.25%   2.074GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       220.04%   1.149GiB / 7.655GiB
+Kafka       408.19%   2.094GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       199.81%   1.177GiB / 7.655GiB
+Kafka       408.19%   2.094GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       280.04%   1.192GiB / 7.655GiB
+Kafka       370.29%   1.996GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       280.04%   1.192GiB / 7.655GiB
+Kafka       370.29%   1.996GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       280.04%   1.192GiB / 7.655GiB
+Kafka       95.88%    1.723GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       215.94%   1.196GiB / 7.655GiB
+Kafka       95.88%    1.723GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       215.94%   1.196GiB / 7.655GiB
+Kafka       102.55%   1.742GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       263.89%   1.201GiB / 7.655GiB
+Kafka       102.55%   1.742GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       263.89%   1.201GiB / 7.655GiB
+Kafka       144.39%   1.842GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       249.71%   1.211GiB / 7.655GiB
+Kafka       144.39%   1.842GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       249.71%   1.211GiB / 7.655GiB
+Kafka       144.39%   1.842GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       529.27%   1.236GiB / 7.655GiB
+Kafka       228.75%   1.907GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       529.27%   1.236GiB / 7.655GiB
+Kafka       228.75%   1.907GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       524.29%   1.276GiB / 7.655GiB
+Kafka       315.00%   1.953GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       524.29%   1.276GiB / 7.655GiB
+Kafka       315.00%   1.953GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       524.29%   1.276GiB / 7.655GiB
+Kafka       315.00%   1.953GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       870.30%   1.309GiB / 7.655GiB
+Kafka       526.33%   2.042GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       870.30%   1.309GiB / 7.655GiB
+Kafka       552.64%   2.088GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       807.20%   1.35GiB / 7.655GiB
+Kafka       552.64%   2.088GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       807.20%   1.35GiB / 7.655GiB
+Kafka       262.92%   2.107GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       807.20%   1.35GiB / 7.655GiB
+Kafka       262.92%   2.107GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       510.14%   1.378GiB / 7.655GiB
+Kafka       448.03%   2.137GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       510.14%   1.378GiB / 7.655GiB
+Kafka       448.03%   2.137GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       505.18%   1.415GiB / 7.655GiB
+Kafka       374.98%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       505.18%   1.415GiB / 7.655GiB
+Kafka       374.98%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       505.18%   1.415GiB / 7.655GiB
+Kafka       189.81%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       440.67%   1.434GiB / 7.655GiB
+Kafka       189.81%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       440.67%   1.434GiB / 7.655GiB
+Kafka       189.81%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       551.64%   1.442GiB / 7.655GiB
+Kafka       189.81%   2.03GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       551.64%   1.442GiB / 7.655GiB
+Kafka       75.91%    1.733GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       408.88%   1.454GiB / 7.655GiB
+Kafka       75.91%    1.733GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       408.88%   1.454GiB / 7.655GiB
+Kafka       195.10%   1.784GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       421.78%   1.457GiB / 7.655GiB
+Kafka       195.10%   1.784GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       421.78%   1.457GiB / 7.655GiB
+Kafka       195.10%   1.784GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       542.31%   1.468GiB / 7.655GiB
+Kafka       195.10%   1.784GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       542.31%   1.468GiB / 7.655GiB
+Kafka       276.66%   1.755GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       542.31%   1.468GiB / 7.655GiB
+Kafka       276.66%   1.755GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       480.64%   1.344GiB / 7.655GiB
+Kafka       276.66%   1.755GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       480.64%   1.344GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       409.08%   1.345GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       409.08%   1.345GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       409.08%   1.345GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       363.21%   1.355GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       363.21%   1.355GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       160.73%   1.025GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       160.73%   1.025GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       85.54%    1.037GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       85.54%    1.037GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       103.18%   1.053GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       103.18%   1.053GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       144.20%   1.067GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       144.20%   1.067GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       158.32%   1.178GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       158.32%   1.178GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       198.22%   1.199GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       198.22%   1.199GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       179.74%   1.217GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       179.74%   1.217GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       307.79%   1.223GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       307.79%   1.223GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       481.42%   1.267GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       481.42%   1.267GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       481.42%   1.267GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       481.42%   1.267GiB / 7.655GiB
+Kafka       276.66%   1.755GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
 Kafka       --        -- / --
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       244.82%   1.291GiB / 7.655GiB
+Kafka       525.01%   1.811GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       244.82%   1.291GiB / 7.655GiB
+Kafka       525.01%   1.811GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       747.04%   1.343GiB / 7.655GiB
+Kafka       309.81%   1.847GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       747.04%   1.343GiB / 7.655GiB
+Kafka       309.81%   1.847GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       363.57%   1.37GiB / 7.655GiB
+Kafka       148.92%   1.878GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       363.57%   1.37GiB / 7.655GiB
+Kafka       148.92%   1.878GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       448.53%   1.411GiB / 7.655GiB
+Kafka       161.32%   1.893GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       448.53%   1.411GiB / 7.655GiB
+Kafka       161.32%   1.893GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       424.30%   1.315GiB / 7.655GiB
+Kafka       160.24%   1.909GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       424.30%   1.315GiB / 7.655GiB
+Kafka       160.24%   1.909GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       157.46%   1.314GiB / 7.655GiB
+Kafka       442.14%   1.944GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       157.46%   1.314GiB / 7.655GiB
+Kafka       442.14%   1.944GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       157.46%   1.314GiB / 7.655GiB
+Kafka       442.14%   1.944GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       85.18%    1.039GiB / 7.655GiB
+Kafka       469.51%   2GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       85.18%    1.039GiB / 7.655GiB
+Kafka       469.51%   2GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       101.73%   1.054GiB / 7.655GiB
+Kafka       434.13%   2.06GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       101.73%   1.054GiB / 7.655GiB
+Kafka       434.13%   2.06GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       152.15%   1.064GiB / 7.655GiB
+Kafka       468.94%   1.998GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       152.15%   1.064GiB / 7.655GiB
+Kafka       468.94%   1.998GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       200.73%   1.169GiB / 7.655GiB
+Kafka       260.03%   2.01GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       200.73%   1.169GiB / 7.655GiB
+Kafka       260.03%   2.01GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       254.98%   1.187GiB / 7.655GiB
+Kafka       127.41%   1.733GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       254.98%   1.187GiB / 7.655GiB
+Kafka       127.41%   1.733GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       248.33%   1.202GiB / 7.655GiB
+Kafka       142.98%   1.744GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       248.33%   1.202GiB / 7.655GiB
+Kafka       142.98%   1.744GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.30%   1.219GiB / 7.655GiB
+Kafka       210.16%   1.757GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.30%   1.219GiB / 7.655GiB
+Kafka       210.16%   1.757GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       371.90%   1.259GiB / 7.655GiB
+Kafka       265.32%   1.744GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       371.90%   1.259GiB / 7.655GiB
+Kafka       265.32%   1.744GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       475.35%   1.294GiB / 7.655GiB
+Kafka       257.05%   1.893GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       475.35%   1.294GiB / 7.655GiB
+Kafka       257.05%   1.893GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       475.35%   1.294GiB / 7.655GiB
+Kafka       297.41%   1.928GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       520.61%   1.294GiB / 7.655GiB
+Kafka       297.41%   1.928GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       520.61%   1.294GiB / 7.655GiB
+Kafka       403.21%   1.985GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       526.22%   1.388GiB / 7.655GiB
+Kafka       403.21%   1.985GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       526.22%   1.388GiB / 7.655GiB
+Kafka       465.86%   2.039GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       458.95%   1.397GiB / 7.655GiB
+Kafka       465.86%   2.039GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       458.95%   1.397GiB / 7.655GiB
+Kafka       413.80%   1.942GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       394.53%   1.4GiB / 7.655GiB
+Kafka       413.80%   1.942GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       394.53%   1.4GiB / 7.655GiB
+Kafka       133.10%   1.74GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.21%   1.407GiB / 7.655GiB
+Kafka       133.10%   1.74GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.21%   1.407GiB / 7.655GiB
+Kafka       133.10%   1.74GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       435.25%   1.414GiB / 7.655GiB
+Kafka       209.36%   1.753GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       435.25%   1.414GiB / 7.655GiB
+Kafka       213.86%   1.77GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       538.10%   1.295GiB / 7.655GiB
+Kafka       213.86%   1.77GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       538.10%   1.295GiB / 7.655GiB
+Kafka       275.15%   1.868GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       538.10%   1.295GiB / 7.655GiB
+Kafka       275.15%   1.868GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       359.67%   1.295GiB / 7.655GiB
+Kafka       292.82%   1.907GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       359.67%   1.295GiB / 7.655GiB
+Kafka       292.82%   1.907GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       163.26%   1.038GiB / 7.655GiB
+Kafka       292.82%   1.907GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       163.26%   1.038GiB / 7.655GiB
+Kafka       345.68%   1.945GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       222.14%   1.051GiB / 7.655GiB
+Kafka       345.68%   1.945GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       222.14%   1.051GiB / 7.655GiB
+Kafka       588.48%   2.017GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       224.73%   1.076GiB / 7.655GiB
+Kafka       588.48%   2.017GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       224.73%   1.076GiB / 7.655GiB
+Kafka       431.00%   2.079GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       271.77%   1.161GiB / 7.655GiB
+Kafka       431.00%   2.079GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       271.77%   1.161GiB / 7.655GiB
+Kafka       258.04%   1.977GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       274.98%   1.195GiB / 7.655GiB
+Kafka       258.04%   1.977GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       274.98%   1.195GiB / 7.655GiB
+Kafka       95.70%    1.751GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       298.50%   1.216GiB / 7.655GiB
+Kafka       95.70%    1.751GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       298.50%   1.216GiB / 7.655GiB
+Kafka       147.69%   1.766GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       318.39%   1.236GiB / 7.655GiB
+Kafka       147.69%   1.766GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       318.39%   1.236GiB / 7.655GiB
+Kafka       189.87%   1.883GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       391.53%   1.274GiB / 7.655GiB
+Kafka       189.87%   1.883GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       391.53%   1.274GiB / 7.655GiB
+Kafka       237.50%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       405.14%   1.302GiB / 7.655GiB
+Kafka       237.50%   1.941GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       405.14%   1.302GiB / 7.655GiB
+Kafka       369.18%   1.991GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       425.64%   1.253GiB / 7.655GiB
+Kafka       369.18%   1.991GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       425.64%   1.253GiB / 7.655GiB
+Kafka       425.82%   1.917GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       157.02%   1.05GiB / 7.655GiB
+Kafka       425.82%   1.917GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       157.02%   1.05GiB / 7.655GiB
+Kafka       85.10%    1.758GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       142.59%   1.065GiB / 7.655GiB
+Kafka       85.10%    1.758GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       142.59%   1.065GiB / 7.655GiB
+Kafka       149.43%   1.774GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       188.86%   1.086GiB / 7.655GiB
+Kafka       149.43%   1.774GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       188.86%   1.086GiB / 7.655GiB
+Kafka       185.53%   1.814GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       188.86%   1.086GiB / 7.655GiB
+Kafka       185.53%   1.814GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       217.56%   1.179GiB / 7.655GiB
+Kafka       236.18%   1.942GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       217.56%   1.179GiB / 7.655GiB
+Kafka       236.18%   1.942GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.61%   1.22GiB / 7.655GiB
+Kafka       363.30%   2.019GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.61%   1.22GiB / 7.655GiB
+Kafka       363.30%   2.019GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       294.29%   1.246GiB / 7.655GiB
+Kafka       400.61%   2.048GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       294.29%   1.246GiB / 7.655GiB
+Kafka       400.61%   2.048GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       489.27%   1.294GiB / 7.655GiB
+Kafka       338.57%   1.966GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       489.27%   1.294GiB / 7.655GiB
+Kafka       338.57%   1.966GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       442.47%   1.322GiB / 7.655GiB
+Kafka       92.37%    1.767GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       442.47%   1.322GiB / 7.655GiB
+Kafka       92.37%    1.767GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       413.71%   1.385GiB / 7.655GiB
+Kafka       145.33%   1.783GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       413.71%   1.385GiB / 7.655GiB
+Kafka       145.33%   1.783GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       426.88%   1.404GiB / 7.655GiB
+Kafka       194.64%   1.916GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       426.88%   1.404GiB / 7.655GiB
+Kafka       194.64%   1.916GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       438.42%   1.293GiB / 7.655GiB
+Kafka       236.88%   1.963GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       438.42%   1.293GiB / 7.655GiB
+Kafka       236.88%   1.963GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       199.74%   1.299GiB / 7.655GiB
+Kafka       372.49%   2.027GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       199.74%   1.299GiB / 7.655GiB
+Kafka       372.49%   2.027GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       119.11%   1.064GiB / 7.655GiB
+Kafka       408.12%   1.936GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       119.11%   1.064GiB / 7.655GiB
+Kafka       408.12%   1.936GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       155.03%   1.079GiB / 7.655GiB
+Kafka       104.30%   1.77GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       155.03%   1.079GiB / 7.655GiB
+Kafka       104.30%   1.77GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       155.03%   1.079GiB / 7.655GiB
+Kafka       148.97%   1.786GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       175.01%   1.074GiB / 7.655GiB
+Kafka       148.97%   1.786GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       175.01%   1.074GiB / 7.655GiB
+Kafka       163.55%   1.821GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       237.54%   1.185GiB / 7.655GiB
+Kafka       163.55%   1.821GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       237.54%   1.185GiB / 7.655GiB
+Kafka       287.05%   1.953GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       245.09%   1.222GiB / 7.655GiB
+Kafka       287.05%   1.953GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       245.09%   1.222GiB / 7.655GiB
+Kafka       340.26%   2.044GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       230.49%   1.248GiB / 7.655GiB
+Kafka       340.26%   2.044GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       230.49%   1.248GiB / 7.655GiB
+Kafka       340.99%   2.048GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       433.80%   1.282GiB / 7.655GiB
+Kafka       340.99%   2.048GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       433.80%   1.282GiB / 7.655GiB
+Kafka       353.93%   2.08GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       493.13%   1.326GiB / 7.655GiB
+Kafka       353.93%   2.08GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       493.13%   1.326GiB / 7.655GiB
+Kafka       429.35%   2.123GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       465.72%   1.397GiB / 7.655GiB
+Kafka       429.35%   2.123GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       465.72%   1.397GiB / 7.655GiB
+Kafka       153.00%   1.775GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       451.35%   1.409GiB / 7.655GiB
+Kafka       153.00%   1.775GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       451.35%   1.409GiB / 7.655GiB
+Kafka       163.52%   1.787GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       356.20%   1.427GiB / 7.655GiB
+Kafka       163.52%   1.787GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       356.20%   1.427GiB / 7.655GiB
+Kafka       163.52%   1.787GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       334.82%   1.327GiB / 7.655GiB
+Kafka       146.19%   1.801GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       334.82%   1.327GiB / 7.655GiB
+Kafka       146.19%   1.801GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       109.53%   1.065GiB / 7.655GiB
+Kafka       278.11%   1.935GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       109.53%   1.065GiB / 7.655GiB
+Kafka       278.11%   1.935GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       144.46%   1.081GiB / 7.655GiB
+Kafka       237.68%   1.975GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       144.46%   1.081GiB / 7.655GiB
+Kafka       237.68%   1.975GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       138.11%   1.102GiB / 7.655GiB
+Kafka       397.77%   2.045GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       138.11%   1.102GiB / 7.655GiB
+Kafka       397.77%   2.045GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       229.37%   1.223GiB / 7.655GiB
+Kafka       392.12%   2.07GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       229.37%   1.223GiB / 7.655GiB
+Kafka       392.12%   2.07GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.61%   1.262GiB / 7.655GiB
+Kafka       183.98%   1.739GiB / 7.655GiB
 [2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.61%   1.262GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       371.60%   1.29GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       371.60%   1.29GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       363.77%   1.328GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       363.77%   1.328GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       379.17%   1.266GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       379.17%   1.266GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       64.48%    1.078GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       64.48%    1.078GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       147.37%   1.095GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       147.37%   1.095GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       193.02%   1.14GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       193.02%   1.14GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       222.29%   1.252GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       222.29%   1.252GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       318.36%   1.3GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       318.36%   1.3GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       384.33%   1.348GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       384.33%   1.348GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       415.75%   1.439GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       415.75%   1.439GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       196.30%   1.076GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       196.30%   1.076GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       196.30%   1.076GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       126.67%   1.092GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       126.67%   1.092GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       135.23%   1.103GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       135.23%   1.103GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       179.29%   1.116GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       179.29%   1.116GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       246.54%   1.249GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       246.54%   1.249GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       267.46%   1.279GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       267.46%   1.279GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       377.90%   1.325GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       377.90%   1.325GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.72%   1.39GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       418.72%   1.39GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.30%   1.086GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.30%   1.086GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       135.99%   1.104GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       135.99%   1.104GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       169.77%   1.084GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       169.77%   1.084GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       250.52%   1.257GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       250.52%   1.257GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       236.10%   1.288GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       236.10%   1.288GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       358.70%   1.356GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       358.70%   1.356GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       413.94%   1.384GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       413.94%   1.384GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       415.11%   1.307GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       415.11%   1.307GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       177.54%   1.09GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       177.54%   1.09GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       124.03%   1.104GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       124.03%   1.104GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       137.53%   1.122GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       137.53%   1.122GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       207.42%   1.239GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       207.42%   1.239GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       255.17%   1.28GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       255.17%   1.28GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       308.59%   1.357GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       308.59%   1.357GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       397.38%   1.392GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       397.38%   1.392GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       454.72%   1.322GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       454.72%   1.322GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       135.87%   1.098GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       135.87%   1.098GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.75%   1.115GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.75%   1.115GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.14%   1.139GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       148.14%   1.139GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       245.15%   1.261GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       245.15%   1.261GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.95%   1.294GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       247.95%   1.294GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       387.16%   1.33GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       387.16%   1.33GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       442.52%   1.414GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       442.52%   1.414GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       255.95%   1.308GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       255.95%   1.308GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       107.37%   1.118GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       107.37%   1.118GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.19%   1.134GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       131.19%   1.134GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       206.30%   1.17GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       206.30%   1.17GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       262.78%   1.281GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       262.78%   1.281GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       262.78%   1.281GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       292.11%   1.349GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.71%   1.371GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.71%   1.371GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       401.46%   1.432GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       401.46%   1.432GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.76%   1.479GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       420.76%   1.479GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       210.07%   1.113GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       210.07%   1.113GiB / 7.655GiB
-[2J[HCONTAINER   CPU %     MEM USAGE / LIMIT
-Kafka       210.07%   1.113GiB / 7.655GiB
+Kafka       183.98%   1.739GiB / 7.655GiB

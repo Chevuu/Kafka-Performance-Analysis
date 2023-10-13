@@ -23,11 +23,5 @@ ax1.set_xticks(x_positions)  # Set the custom x-axis positions
 ax1.set_xticklabels(x_labels)  # Set the custom x-axis labels
 ax1.tick_params('y', colors='skyblue')
 
-# Creating a second y-axis to plot nb_messages
-# ax2 = ax1.twinx()
-# ax2.plot(x_positions, nb_messages, color='red', marker='o', label='Number of Messages')
-# ax2.set_ylabel('Number of Messages', color='red')
-# ax2.tick_params('y', colors='red')
-
 plt.title('CPU Usage for Different Message Size')
 plt.show()

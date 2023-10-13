@@ -14,11 +14,5 @@ ax1.set_xlabel('Number of Producers')
 ax1.set_ylabel('CPU %', color='skyblue')
 ax1.tick_params('y', colors='skyblue')
 
-# Creating a second y-axis to plot nb_messages
-# ax2 = ax1.twinx()
-# ax2.plot(num_producers, nb_messages, color='red', marker='o', label='Number of Messages')
-# ax2.set_ylabel('Number of Messages', color='red')
-# ax2.tick_params('y', colors='red')
-
 plt.title('CPU Usage for Different Number of Producers')
 plt.show()
