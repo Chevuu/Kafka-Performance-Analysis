@@ -1,13 +1,13 @@
-# Use the official Apache Kafka image as the base image
+# Image
 FROM wurstmeister/kafka
 
-# Expose Kafka port
-EXPOSE 9092
+# Kafka instance 1
+ENV KAFKA_ADVERTISED_LISTENERS1=PLAINTEXT://kafkaTest1:9092
+ENV KAFKA_LISTENERS1=PLAINTEXT://:9092
 
-# Set environment variables for Kafka configuration
-ENV KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
-ENV KAFKA_LISTENERS=PLAINTEXT://0.0.0.0:9092
+# Kafka instance 2
+ENV KAFKA_ADVERTISED_LISTENERS2=PLAINTEXT://kafkaTest2:9092
+ENV KAFKA_LISTENERS2=PLAINTEXT://:9093
 
-# Set other Kafka environment variables if needed
-ENV KAFKA_BROKER_ID=1
-ENV KAFKA_ZOOKEEPER_CONNECT=my-zookeeper:2181
+# Both instance
+ENV KAFKA_ZOOKEEPER_CONNECT=zookeeperTest:2181
