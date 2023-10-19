@@ -1,8 +1,3 @@
-# Image
-FROM wurstmeister/zookeeper
+FROM zookeeper:3.9.0
 
-# Client port
-ENV ZOOKEEPER_CLIENT_PORT=2181
-
-# Expose the client port
 EXPOSE 2181
