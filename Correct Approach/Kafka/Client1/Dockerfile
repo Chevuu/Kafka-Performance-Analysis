@@ -5,7 +5,7 @@ FROM wurstmeister/kafka
 EXPOSE 9092
 
 # Set environment variables for Kafka configuration
-ENV KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
+ENV KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka-1:9092
 ENV KAFKA_LISTENERS=PLAINTEXT://0.0.0.0:9092
 
 # Set other Kafka environment variables if needed
