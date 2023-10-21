@@ -3,7 +3,7 @@
 ### Setup Kafka
 This means that we need to figure out a way to have multiple kafka VMs communicate between each other. I haven't found a way to do that yet. I will ask the professor if we can do it in one VM but I'm not sure if that's the point. It seems also a bit wrong to use Docker inside Google Cloud so I'll also ask the professor what he thinks about that.
 
-### Choose factors
+### [Choose factors](https://kafka.apache.org/documentation/#brokerconfigs)
 We need to find 6 - 10 factors that affect performance as much as possible so that on monday we can ask the professor which (3 to 6) should we choose.
 So far I am suggesting:
 1. Number of brokers
