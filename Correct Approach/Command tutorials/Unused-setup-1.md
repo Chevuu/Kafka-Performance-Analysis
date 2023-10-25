@@ -1,3 +1,5 @@
+This is a setup to make local docker containers communicate
+
 # Commands to run the cluster:
 
 - Create the network if you already don't have one
@@ -17,23 +19,28 @@ In ./Kafka/Client1:
 In ./Kafka/Client2:
 - docker build -t kafka-img-2 .
 
+In ./Kafka/Client3:
+- docker build -t kafka-img-3 .
+
 ### Run Kafka image:
 - docker run -d -p 9092:9092 --network my-network --name kafka-1 kafka-img-1
 - docker run -d -p 9093:9093 --network my-network --name kafka-2 kafka-img-2
+- docker run -d -p 9094:9094 --network my-network --name kafka-3 kafka-img-3
 
 # Set-up the cluster:
 - docker exec -it kafka-1 /bin/sh
 - docker exec -it kafka-2 /bin/sh
+- docker exec -it kafka-3 /bin/sh
 
-kafka-1, kafka-2:
-- cd opt/kafka
+kafka-1, kafka-2, kafka-3:
+- cd opt/kafkaki
 
 kafka-1:
-- ./bin/kafka-topics.sh --create --zookeeper my-zookeeper:2181 --replication-factor 1 --partitions 1 --topic tema
+- ./bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 3 --partitions 1 --topic tema
 
 kafka-2:
 - ./bin/kafka-topics.sh --list --zookeeper my-zookeeper:2181
-shoudl see 'tema'
+should see 'tema'
 
 kafka-1
 - ./bin/kafka-console-producer.sh --broker-list kafka-1:9092 --topic tema
