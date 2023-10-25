@@ -89,5 +89,5 @@ done
 - ./benchmark.sh <topic_name> 
 
 In another window:
-run  `dstat -c -m`
+run  `dstat -c -m` <KAFKA1_EXTERNAL_IP>:9092,<KAFKA2_EXTERNAL_IP>:9092
 Copy that into a text file as in Data Parsing and use parser script.
