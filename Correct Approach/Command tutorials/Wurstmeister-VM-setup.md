@@ -51,3 +51,42 @@ bash
 - sudo docker exec -it kafka /bin/sh
 - cd opt/kafka/bin
 - kafka-console-consumer.sh --bootstrap-server 34.65.220.54:9092,34.65.181.63:9092 --topic tema --from-beginning
+
+
+## Benchmarking
+open two kafka1 windows and one kafka2 window
+
+On kafka window start consuming. You never have to turn that off.
+
+On kafka1 window 1:
+- sudo docker exec -it kafka /bin/sh
+- cd opt/fafka/bin
+- Do this:
+```bash
+echo "#!/bin/bash
+
+# Check if the topic argument is provided
+if [ $# -ne 2 ]; then
+    echo "Usage: $0 <kafka_topic> <broker_list>"
+    exit 1
+fi
+
+kafka_topic="$1"
+kafka_brokers="$2"
+
+# Generate a 256KB message
+message=$(dd if=/dev/urandom bs=256 count=1 | base64)
+
+# Run the Kafka producer for 30 seconds
+end_time=$((SECONDS + 30))
+
+while [ $SECONDS -lt $end_time ]; do
+    echo "$message" | kafka-console-producer.sh --broker-list $kafka_brokers --topic $kafka_topic
+done
+" > benchmark.sh
+```
+- chmod +x benchmark.sh
+
+In another window:
+run  `dstat -c -m`
+Copy that into a text file as in Data Parsing and use parser script.
