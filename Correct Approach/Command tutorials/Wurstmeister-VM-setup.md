@@ -1,7 +1,3 @@
-ZOOKEEPER-2: Ext: <ZOOKEEPER_IP> Int: 10.172.0.2 
-KAFKA-1: Ext: <KAFKA1_EXTERNAL_IP> Int: 10.172.0.3
-KAFKA-2: Ext: <KAFKA2_EXTERNAL_IP> Int: 10.172.0.3
-
 ### Create 3 VMs on zone europe-west1-b with 4 cores and 8GB RAM in Google Cloud.
 
 Name these machines zookeeper, kafka1, and kafka2.
@@ -17,7 +13,7 @@ sudo docker run -d --name zookeeper -p 2181:2181 wurstmeister/zookeeper
 
 On the kafka1 VM, run the following command to start Kafka using the Wurstmeister Kafka Docker image with the specified environment variables:
 bash
-sudo docker run -d --name kafka -p 9092:9092 -e KAFKA_ADVERTISED_HOST_NAME=<KAFKA1_EXTERNAL_IP> -e KAFKA_ADVERTISED_PORT=9092 -e KAFKA_BROKER_ID=1 -e KAFKA_ZOOKEEPER_CONNECT=<ZOOKEEPER_EXTERNAL_IP></ZOOKEEPER_IP>:2181 wurstmeister/kafka
+sudo docker run -d --name kafka -p 9092:9092 -e KAFKA_ADVERTISED_HOST_NAME=<KAFKA1_EXTERNAL_IP> -e KAFKA_ADVERTISED_PORT=9092 -e KAFKA_BROKER_ID=1 -e KAFKA_ZOOKEEPER_CONNECT=<ZOOKEEPER_IP>:2181 wurstmeister/kafka
 ### Run Kafka on kafka2 VM:
 
 On the kafka2 VM, run the following command to start Kafka using the Wurstmeister Kafka Docker image with the specified environment variables:
