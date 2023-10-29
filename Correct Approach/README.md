@@ -2,10 +2,6 @@
 
 ## Organization
 
-### Config folder
-In this file you will find the configuration we used for Kafka and Zookeeper. These configuration allowed us to properly link all the instances between them.
-No need to lunch the Dockerfile, the instructions for the VMs setup will be discussed in Instruction folder section.
-
 ### Data folder
 In this folder, you will find all the data we got from our performance test. We separated the file from the global tests and the tests for the scalability calculation.
 
