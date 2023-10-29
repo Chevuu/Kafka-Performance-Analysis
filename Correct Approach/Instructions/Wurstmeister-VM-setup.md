@@ -62,3 +62,8 @@ cd opt/kafka/bin
 
 kafka-topics.sh --list --zookeeper <ZOOKEEPER_IP>:2181
 ```
+
+## Notes
+You are now done with the configuration of the VMs unless you change the configuration of the VM itself.
+
+If you decide to stop the VM to change the VM configuration, remember to update the IP in the `Personal configuration` section.
